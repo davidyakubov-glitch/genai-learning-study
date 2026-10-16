@@ -1,0 +1,2 @@
+# Reference interpreter: CPython 3.12.14
+# No third-party dependencies: all imports use the Python standard library.

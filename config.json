@@ -1,0 +1,17 @@
+{
+  "study_title": "Structured GenAI and University Learning",
+  "data_kind": "synthetic_smoke_test",
+  "input_csv": "data/sample/participants.csv",
+  "output_json": "results/sample_summary.json",
+  "output_log": "results/sample_run.log",
+  "groups": {
+    "control": "traditional",
+    "treatment": "genai"
+  },
+  "score_max": 100,
+  "critical_thinking_max": 20,
+  "task_time_limit_minutes": 40,
+  "critical_thinking_guardrail_margin": 1,
+  "primary_metric": "learning_gain_percentage_points",
+  "planned_allocation_seed": 20261017
+}

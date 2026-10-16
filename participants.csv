@@ -1,0 +1,11 @@
+participant_id,group,pretest_score,posttest_score,task_minutes,critical_thinking_score
+S001,traditional,50,62,32,12
+S002,traditional,60,68,35,13
+S003,traditional,55,65,30,11
+S004,traditional,70,78,34,14
+S005,traditional,45,58,37,10
+S006,genai,50,68,27,13
+S007,genai,60,75,28,14
+S008,genai,55,72,26,12
+S009,genai,70,83,29,15
+S010,genai,45,62,31,11
