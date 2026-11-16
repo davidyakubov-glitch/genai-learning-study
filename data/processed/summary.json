@@ -1,0 +1,52 @@
+{
+  "study_title": "Structured GenAI and University Learning",
+  "data_kind": "synthetic_smoke_test",
+  "interpretation": "Descriptive output only. Synthetic inputs are not evidence of research effects.",
+  "primary_metric": "learning_gain_percentage_points",
+  "groups": {
+    "traditional": {
+      "n": 5,
+      "means": {
+        "pretest_score": 56.0,
+        "posttest_score": 66.2,
+        "task_minutes": 33.6,
+        "critical_thinking_score": 12.0,
+        "learning_gain_percentage_points": 10.2
+      },
+      "time_capped_count": 0
+    },
+    "genai": {
+      "n": 5,
+      "means": {
+        "pretest_score": 56.0,
+        "posttest_score": 72.0,
+        "task_minutes": 28.2,
+        "critical_thinking_score": 13.0,
+        "learning_gain_percentage_points": 16.0
+      },
+      "time_capped_count": 0
+    }
+  },
+  "treatment_minus_control": {
+    "pretest_score": 0.0,
+    "posttest_score": 5.799999999999997,
+    "task_minutes": -5.400000000000002,
+    "critical_thinking_score": 1.0,
+    "learning_gain_percentage_points": 5.800000000000001
+  },
+  "guardrails": {
+    "input_validation_passed": true,
+    "critical_thinking_descriptive_check": true,
+    "critical_thinking_margin_points": 1,
+    "assessment_no_ai_adherence": "not assessed by this script",
+    "note": "A descriptive mean check does not establish statistical non-inferiority."
+  },
+  "task3": {
+    "raw_records": 10,
+    "excluded_records": 0,
+    "warmup": "Not applicable: educational measurements, not inference latency.",
+    "dispersion": "Sample SD (n-1); not a confidence interval.",
+    "raw_sha256": "581199cdee63761eba26eed23b03c9f71e64f6ac11e54d0f9e69708517a748bd",
+    "randomness": "None: fixed Task 2 fixture; no sampling or bootstrap."
+  }
+}

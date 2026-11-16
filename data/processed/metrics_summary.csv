@@ -1,0 +1,11 @@
+group,metric,n,mean,median,sd,minimum,maximum
+traditional,pretest_score,5,56.0,55.0,9.617692030835672,45.0,70.0
+traditional,posttest_score,5,66.2,65.0,7.5630681604756145,58.0,78.0
+traditional,task_minutes,5,33.6,34.0,2.701851217221259,30.0,37.0
+traditional,critical_thinking_score,5,12.0,12.0,1.5811388300841898,10.0,14.0
+traditional,learning_gain_percentage_points,5,10.2,10.0,2.280350850198276,8.0,13.0
+genai,pretest_score,5,56.0,55.0,9.617692030835672,45.0,70.0
+genai,posttest_score,5,72.0,72.0,7.842193570679061,62.0,83.0
+genai,task_minutes,5,28.2,28.0,1.9235384061671346,26.0,31.0
+genai,critical_thinking_score,5,13.0,13.0,1.5811388300841898,11.0,15.0
+genai,learning_gain_percentage_points,5,16.0,17.0,2.0,13.0,18.0

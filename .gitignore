@@ -11,7 +11,8 @@ __pycache__/
 results/
 *.log
 data/private/
-data/raw/
+data/raw/*
+!data/raw/test_run.jsonl
 *.parquet
 *.pkl
 *.pt

@@ -1,0 +1,10 @@
+{"participant_id": "S001", "group": "traditional", "pretest_score": 50.0, "posttest_score": 62.0, "task_minutes": 32.0, "critical_thinking_score": 12.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S002", "group": "traditional", "pretest_score": 60.0, "posttest_score": 68.0, "task_minutes": 35.0, "critical_thinking_score": 13.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S003", "group": "traditional", "pretest_score": 55.0, "posttest_score": 65.0, "task_minutes": 30.0, "critical_thinking_score": 11.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S004", "group": "traditional", "pretest_score": 70.0, "posttest_score": 78.0, "task_minutes": 34.0, "critical_thinking_score": 14.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S005", "group": "traditional", "pretest_score": 45.0, "posttest_score": 58.0, "task_minutes": 37.0, "critical_thinking_score": 10.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S006", "group": "genai", "pretest_score": 50.0, "posttest_score": 68.0, "task_minutes": 27.0, "critical_thinking_score": 13.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S007", "group": "genai", "pretest_score": 60.0, "posttest_score": 75.0, "task_minutes": 28.0, "critical_thinking_score": 14.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S008", "group": "genai", "pretest_score": 55.0, "posttest_score": 72.0, "task_minutes": 26.0, "critical_thinking_score": 12.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S009", "group": "genai", "pretest_score": 70.0, "posttest_score": 83.0, "task_minutes": 29.0, "critical_thinking_score": 15.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
+{"participant_id": "S010", "group": "genai", "pretest_score": 45.0, "posttest_score": 62.0, "task_minutes": 31.0, "critical_thinking_score": 11.0, "data_kind": "synthetic_smoke_test", "phase": "evaluation"}
